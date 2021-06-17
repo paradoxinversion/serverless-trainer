@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mongodb-client-encryption": "^1.2.5",
     "mongoose": "^5.12.14",
     "next": "11.0.0",
     "react": "17.0.2",
